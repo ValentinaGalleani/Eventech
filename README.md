@@ -44,10 +44,11 @@ Por medio de la encuesta pudimos rescatar diferentes insights que nos sirvieron 
 [Ver detalles de la observación](https://drive.google.com/drive/folders/1EPtY8ChBzrmb-oDiI3mBrPGhN9MJI8Dy)
 
 Luego con los resultados de la misma encuesta creamos un “golden circle” para entender decisiones clave que determinan cómo será nuestro producto y que es lo que ofrecerá.
+
 ![](https://i.imgur.com/WRcd2Fq.png)
 [Ver Golden Circle](https://drive.google.com/drive/folders/16-W6pZEuAysAvC8AswNgUrIZxs-MvkoG)
 
-##NECESIDADES
+## NECESIDADES
 
 - El usuario necesita una plataforma de fácil acceso y sin cobros adicionales, que sea capaz de entregar conocimiento constante y actualizado.
 - El usuario se informa a través de medios digitales pero, no cuenta con una plataforma de eventos en el área de la tecnología que los unifique a todos.
@@ -95,3 +96,4 @@ Una web app que sea capaz de dejar un registro del material audiovisual, de difu
 Como el proyecto se enfoca en el área tech y en los eventos, le asignamos por nombre EVENTECH. Los colores y tipografías son acordes a los conceptos asociados a la tecnología y modernidad.
 
 [Navegar prototipo](https://marvelapp.com/14hc4b76/screen/40075023)
+

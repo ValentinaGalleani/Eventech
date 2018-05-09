@@ -28,6 +28,7 @@ El objetivo de la encuesta ha sido validar cuáles son los insights más importa
 ![](https://i.imgur.com/91jYWYh.png)
 ![](https://i.imgur.com/RsL5KW0.png)
 ![](https://i.imgur.com/iUY9W7H.png)
+
 [Ver encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdPVBScWy6kLkMwVStGRJlw81bfA9penP1anPO3_RoY8OBY-Q/viewform)
 
 ###### OBSERVACIONES DE LA ENCUESTA
@@ -41,11 +42,13 @@ Según nuestra investigación podemos concluir que no existe una plataforma que 
 Por medio de la encuesta pudimos rescatar diferentes insights que nos sirvieron para validar el contenido y llegar a una solución viable.
 
 ![](https://i.imgur.com/yD8wA49.png)
+
 [Ver detalles de la observación](https://drive.google.com/drive/folders/1EPtY8ChBzrmb-oDiI3mBrPGhN9MJI8Dy)
 
 Luego con los resultados de la misma encuesta creamos un “golden circle” para entender decisiones clave que determinan cómo será nuestro producto y que es lo que ofrecerá.
 
 ![](https://i.imgur.com/WRcd2Fq.png)
+
 [Ver Golden Circle](https://drive.google.com/drive/folders/16-W6pZEuAysAvC8AswNgUrIZxs-MvkoG)
 
 ## NECESIDADES
@@ -59,7 +62,8 @@ Una vez detectadas las necesidades de los usuarios, realizamos una síntesis pre
 De esta manera pudimos determinar cuál será la experiencia que tendrá un usuario cuando acceda a la web app. Y así poder determinar dónde estarán ubicados los diferentes contenidos de navegación.
 
 ![](https://i.imgur.com/tszyaoF.png)
-[Ver estructura de contenidos](http://)
+
+[Ver estructura de contenidos](https://docs.google.com/drawings/d/1seEvzAS_f_bVli9rqNwTQI6kCNffvYRDEZ7PD6my73c/edit)
 
 A partir de esta estructura de contenidos logramos crear el Sketch inicial de nuestra propuesta, para trabajar en conjunto con nuestro equipo front end y poder desarrollar de manera ágil y eficiente nuestro MVP.
 
@@ -71,11 +75,13 @@ A partir de esta estructura de contenidos logramos crear el Sketch inicial de nu
 Una vez que realizamos el proceso de la creación del sketch, logramos realizar el diagrama de flujo de la web app, donde se puede visualizar el recorrido que realizarán los usuarios al momento de ingresar a la plataforma.
 
 ![](https://i.imgur.com/BQfW6E3.png)
+
 [Ver diagrama de flujos](https://drive.google.com/drive/folders/16kiPQUgqybKhL-bl8I7DfLekgMR6YHCf)
 
 El Sketch lo fuimos afinando a medida que realizamos diferentes testeos para lograr percibir cuáles son los momentos más débiles en la interacción del usuario con la plataforma.
 
 ![](https://i.imgur.com/9f2Z5R9.png)
+
 [Ver sketch testeado](https://marvelapp.com/64bcg0b/screen/40119973)
 
 ![](https://i.imgur.com/RpztHlT.png)
@@ -96,4 +102,8 @@ Una web app que sea capaz de dejar un registro del material audiovisual, de difu
 Como el proyecto se enfoca en el área tech y en los eventos, le asignamos por nombre EVENTECH. Los colores y tipografías son acordes a los conceptos asociados a la tecnología y modernidad.
 
 [Navegar prototipo](https://marvelapp.com/14hc4b76/screen/40075023)
+
+
+
+
 
